@@ -1,0 +1,21 @@
+{
+  "name": "Controller_Directives",
+  "description": "new project",
+  "main": "app.js",
+  "authors": [
+    "Priyanka <priyanka3007@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "js"
+  ],
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
